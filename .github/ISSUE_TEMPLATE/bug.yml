@@ -1,0 +1,19 @@
+name: Bug report
+description: Something in Apogee did not work.
+labels: []
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What did you do, and what did the app do?
+    validations:
+      required: true
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Diagnostics
+      description: In the app, go to More, tap Feedback & Bug Reports, and copy the block you see there. Paste it here.
+      render: text
+    validations:
+      required: false
