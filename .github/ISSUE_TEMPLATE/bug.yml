@@ -10,10 +10,20 @@ body:
     validations:
       required: true
   - type: textarea
+    id: steps
+    attributes:
+      label: How to make it happen again
+      description: Step by step, starting from opening the app. Please say which book, and whether it's an audiobook, EPUB, PDF or comic.
+    validations:
+      required: false
+  - type: textarea
     id: diagnostics
     attributes:
       label: Diagnostics
-      description: In the app, go to More, tap Feedback & Bug Reports, and copy the block you see there. Paste it here.
+      description: >
+        If you came here from the app, this is already filled in. If not, open More, tap
+        Feedback & Bug Reports, then File on GitHub, and it will be. It holds your build,
+        iOS version, device and the kind of server you use, never its address.
       render: text
     validations:
       required: false
