@@ -1,7 +1,8 @@
-# Apogee for BookOrbit
+# Apogee Reader
 
 Apogee is an iOS app for your own [BookOrbit](https://github.com/bookorbit) library:
 audiobooks, ebooks, comics and PDFs, from a server you host.
+It's an independent app. It isn't made or endorsed by the BookOrbit project.
 
 The app's on TestFlight. Its code is private. This repo is where you get help, report bugs,
 and follow what I'm building.
