@@ -9,7 +9,7 @@ It's an independent app. It isn't made or endorsed by the BookOrbit project.
 The app's on TestFlight. Its code is private. This repo is where you get help, report bugs,
 and follow what I'm building.
 
-**Apogee runs on iOS 18 and later.** Builds before 253 needed iOS 26.
+**Apogee runs on iOS 18 and later.**
 
 ## Where to go
 
