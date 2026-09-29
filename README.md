@@ -18,7 +18,7 @@ and follow what I'm building.
 | Get help without GitHub | ✉️ [support@apogeereader.app](mailto:support@apogeereader.app), or the [support page](https://apogeereader.app/support/) |
 | Ask a question or get help | 💬 [Discussions](https://github.com/briarrrn/apogee-issues/discussions) |
 | Report a bug I can repeat | 🐛 [Issues](https://github.com/briarrrn/apogee-issues/issues/new) |
-| Read the guides | 📖 [Wiki](https://github.com/briarrrn/apogee-issues/wiki) |
+| Read the guides | 📖 [apogeereader.app/guides](https://apogeereader.app/guides/) |
 | See what shipped in each build | 📣 [Announcements](https://github.com/briarrrn/apogee-issues/discussions/categories/announcements) |
 | See what I'm building, and what's parked | 🗺️ [Roadmap](https://github.com/users/briarrrn/projects/1) |
 | Read the privacy policy | 🔒 [apogeereader.app/privacy](https://apogeereader.app/privacy/) |
