@@ -4,6 +4,8 @@ Apogee is an iOS app for your own [BookOrbit](https://github.com/bookorbit) libr
 audiobooks, ebooks, comics and PDFs, from a server you host.
 It's an independent app. It isn't made or endorsed by the BookOrbit project.
 
+**Website: [apogeereader.app](https://apogeereader.app/)**
+
 The app's on TestFlight. Its code is private. This repo is where you get help, report bugs,
 and follow what I'm building.
 
@@ -13,11 +15,13 @@ and follow what I'm building.
 
 | I want to | Go here |
 |---|---|
+| Get help without GitHub | ✉️ [support@apogeereader.app](mailto:support@apogeereader.app), or the [support page](https://apogeereader.app/support/) |
 | Ask a question or get help | 💬 [Discussions](https://github.com/briarrrn/apogee-issues/discussions) |
 | Report a bug I can repeat | 🐛 [Issues](https://github.com/briarrrn/apogee-issues/issues/new) |
 | Read the guides | 📖 [Wiki](https://github.com/briarrrn/apogee-issues/wiki) |
 | See what shipped in each build | 📣 [Announcements](https://github.com/briarrrn/apogee-issues/discussions/categories/announcements) |
 | See what I'm building, and what's parked | 🗺️ [Roadmap](https://github.com/users/briarrrn/projects/1) |
+| Read the privacy policy | 🔒 [apogeereader.app/privacy](https://apogeereader.app/privacy/) |
 
 ## Reporting a bug
 
