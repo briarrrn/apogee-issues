@@ -20,7 +20,7 @@ and follow what I'm building.
 | Report a bug I can repeat | 🐛 [Issues](https://github.com/briarrrn/apogee-issues/issues/new) |
 | Read the guides | 📖 [apogeereader.app/guides](https://apogeereader.app/guides/) |
 | See what shipped in each build | 📣 [Announcements](https://github.com/briarrrn/apogee-issues/discussions/categories/announcements) |
-| See what I'm building, and what's parked | 🗺️ [Roadmap](https://github.com/users/briarrrn/projects/1) |
+| See what I'm building, and what's parked | 🗺️ [apogeereader.app/roadmap](https://apogeereader.app/roadmap/) |
 | Read the privacy policy | 🔒 [apogeereader.app/privacy](https://apogeereader.app/privacy/) |
 
 ## Reporting a bug
